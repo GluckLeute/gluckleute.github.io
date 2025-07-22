@@ -1,0 +1,35 @@
+.name-block {
+  width: 300px; /* 任意。自然な幅に調整 */
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.name {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+  /* テキスト自体は左揃えに */
+  text-align: left;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+a {
+  color: inherit;            /* 親要素の文字色を継承（たとえば白） */
+  text-decoration: none;     /* 下線を消す */
+}
+
+a:hover {
+  text-decoration: underline; /* ホバー時だけ下線つける（任意） */
+}
