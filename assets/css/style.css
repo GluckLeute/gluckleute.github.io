@@ -94,4 +94,9 @@ a:focus-visible {
   letter-spacing: 0.03em;
   word-spacing: 0.1em;
   white-space: nowrap;
+  /* 指紋行を横スクロール可能に */
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
