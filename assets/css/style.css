@@ -14,8 +14,8 @@ body {
 .header-banner {
   width: 100%;
   max-width: 500px;
-  height: 100px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   object-position: center;
   display: block;
   margin: 2rem 0 0 5%;
