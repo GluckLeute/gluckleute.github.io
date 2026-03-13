@@ -11,6 +11,15 @@ showTaxonomies: false
 
 GluckLeute(ぐるっく)です。
 
+## 趣味
+
+### ゲーム
+
+### カメラ
+友人のカメラ好きから、お古の一眼を買い取って入門。
+沼にどっぷりではないが、旅行の際には荷物が重くなるのを厭わないくらいには好き。
+愛機は、NIKON D3200
+
 ### リンク
 
 - [GitHub](https://github.com/GluckLeute)
