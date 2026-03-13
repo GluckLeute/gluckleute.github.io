@@ -1,0 +1,11 @@
+# Hugo build output
+public/
+resources/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Zone.Identifier files (WSL)
+*:Zone.Identifier
+AGENTS.md
+CLAUDE.md
