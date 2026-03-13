@@ -11,9 +11,12 @@ showTaxonomies: false
 
 GluckLeute(ぐるっく)です。
 
+
 ## 経歴
 
+
 ## 技術スタック
+
 
 ## 趣味
 
