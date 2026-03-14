@@ -4,7 +4,7 @@ draft: false
 slug: "kenmo-is-not-bad"
 title: "嫌儲思想はそれほど悪くない"
 description: ""
-tags: ["雑記","インターネット"]
+tags: ["インターネット"]
 categories: ["雑記"]
 ---
 
