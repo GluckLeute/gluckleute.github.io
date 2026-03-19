@@ -54,13 +54,13 @@ GluckLeute(ぐるっく)です。
 - Nikon D3200
 
 
-### リンク
+## リンク
 
 - [GitHub](https://github.com/GluckLeute)
 - [X (Twitter)](https://twitter.com/GluckLeute)
 - [YouTube](https://youtube.com/@gluckleute)
 
-### PGP 公開鍵
+## PGP 公開鍵
 
 - [公開鍵ダウンロード](/public.asc)
 - 指紋: `D23D D01E B7C3 3D3E 81AE  F208 20F3 B824 5B34 2E24`
