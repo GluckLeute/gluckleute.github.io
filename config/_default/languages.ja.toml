@@ -16,13 +16,13 @@ title = "ほげはげどっとねっと"
 
 [params.author]
   name = "ぐるっく"
-#   email = "youremail@example.com"
+  email = "gluckleute@hogehage.net"
   image = "img/profile.png"
 #   imageQuality = 96
   headline = "www.hogehage.netへようこそ。無職属性付きのWebサイトです。"
 #  bio = "A little bit about you"
     links = [
-#     { email = "mailto:hello@your_domain.com" },
+      { email = "mailto:gluckleute@hogehage.net" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
