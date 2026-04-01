@@ -11,11 +11,11 @@ title = "ほげはげどっとねっと"
   dateFormat = "2006年1月2日"
   logo = "img/profile.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "ぐるっくのホームページ"
+  description = "GluckLeute(ぐるっく)のホームページ"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "ぐるっく"
+  name = "GluckLeute(ぐるっく)"
   email = "gluckleute@hogehage.net"
   image = "img/profile.png"
 #   imageQuality = 96
