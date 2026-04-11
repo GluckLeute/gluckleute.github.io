@@ -1,0 +1,6 @@
+/* Custom CSS for the blog */
+#single_header,
+.article-content,
+article > footer {
+  max-width: 72ch;
+}
