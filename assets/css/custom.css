@@ -1,4 +1,21 @@
 /* Custom CSS for the blog */
+@media screen {
+  /* Keep the reading surface light while visually separating the side gutters. */
+  html {
+    background-color: rgb(var(--color-neutral-200));
+  }
+
+  html.dark {
+    background-color: rgb(var(--color-neutral-900));
+  }
+
+  /* The theme uses a viewport-height body; let it grow on long articles. */
+  body.h-screen {
+    min-height: 100vh;
+    height: auto;
+  }
+}
+
 #single_header,
 .article-content,
 article > footer {
