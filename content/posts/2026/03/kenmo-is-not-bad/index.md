@@ -6,6 +6,9 @@ title: "嫌儲思想はそれほど悪くない"
 description: ""
 tags: ["インターネット"]
 categories: ["雑記"]
+build:
+  render: always
+  list: never
 ---
 
 ## はじめに

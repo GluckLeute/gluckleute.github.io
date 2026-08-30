@@ -6,6 +6,9 @@ title: "アホが伝える独自ドメインのススメ"
 description: ""
 tags: ["インターネット"]
 categories: ["雑記"]
+build:
+  render: always
+  list: never
 ---
 
 ## ドメインを持ってますか？

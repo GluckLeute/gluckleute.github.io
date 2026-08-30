@@ -6,6 +6,9 @@ title: "情報処理安全確保支援士(セキスペ)の勉強してみるよ"
 description: ""
 tags: ["セキスペ"]
 categories: ["資格勉強"]
+build:
+  render: always
+  list: never
 ---
 
 ## どうしてこうなった

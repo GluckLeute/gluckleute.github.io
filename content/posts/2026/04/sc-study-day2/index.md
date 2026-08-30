@@ -6,6 +6,9 @@ title: "セキスペの勉強の途中経過報告"
 description: ""
 tags: ["セキスペ"]
 categories: ["資格勉強"]
+build:
+  render: always
+  list: never
 ---
 
 ## あれから一週間

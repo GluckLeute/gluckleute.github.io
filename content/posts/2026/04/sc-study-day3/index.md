@@ -6,6 +6,9 @@ title: "資格勉強しているけれどやる気が失われつつある"
 description: ""
 tags: ["セキスペ"]
 categories: ["資格勉強","雑記"]
+build:
+  render: always
+  list: never
 ---
 
 ## 飽きが来た
