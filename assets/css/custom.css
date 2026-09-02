@@ -1,12 +1,12 @@
 /* Custom CSS for the blog */
 @media screen {
-  /* Keep the reading surface light while visually separating the side gutters. */
+  /* Subtle blue-grey gutters that complement the reading surface in both themes. */
   html {
-    background-color: rgb(var(--color-neutral-200));
+    background-color: #eaf2f7;
   }
 
   html.dark {
-    background-color: rgb(var(--color-neutral-900));
+    background-color: #111c2a;
   }
 
   /* The theme uses a viewport-height body; let it grow on long articles. */
