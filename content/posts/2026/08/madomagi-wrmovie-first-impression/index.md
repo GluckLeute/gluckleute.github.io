@@ -1,7 +1,7 @@
 ---
 date: 2026-08-30
 draft: false
-slug: "madomagi-movie-first-impression"
+slug: "madomagi-wrmovie-first-impression"
 title: "まどマギワルプルギスの廻天を観たよって話"
 description: ""
 tags: ["魔法少女まどか☆マギカ","魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"]
